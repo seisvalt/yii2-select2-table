@@ -1,0 +1,23 @@
+{
+	"name": "seisvalt/yii2-select2-table",
+	"description": "Yii2 Select",
+	"keywords": ["yii2", "extension", "helpers", "array"],
+	"homepage": "https://github.com/seisvalt/yii2-select2-tables",
+	"type": "yii2-extension",
+	"license": "MIT",
+	"version": "1.0",
+	"authors": [
+		{
+			"name": "Jose Vargas",
+			"email": "jose.vagas@mingenio.com"
+		}
+	],
+	"require": {
+		"yiisoft/yii2": "*"
+	},
+	"autoload": {
+		"psr-4": {
+			"seisvalt\\select2table\\": ""
+		}
+	}
+}
